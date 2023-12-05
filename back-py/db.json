@@ -1,0 +1,15 @@
+{
+    "usuario": 
+    [
+    {
+      "id": 1,
+      "email": "adrielliworks@gmail.com",
+      "senha": "1234"
+    },
+    {
+      "id": 2,
+      "email": "will@gmail.com",
+      "senha": "123"
+    }
+  ]
+  }
